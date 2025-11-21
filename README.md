@@ -5,4 +5,8 @@ Organization: [ Iwatch Affica]
 Project Duration: [2022] - [2024]
 
 📖 Project Overview
-This repository serves as the central
+
+This repository serves as the central hub for all Monitoring, Evaluation, and Learning (MEL) activities for the Iwatch Africa. 
+
+Primary Objectives:
+
