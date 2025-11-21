@@ -1,5 +1,5 @@
 # Climate Sustainability Project - Ghana | M&E Data 0fficer
-Project Title: [e.g., Ghana Climate Resilience and Sustainable Agriculture Initiative (GCRSAI)]
+Project Title: [ Climate Resilience and Sustainability Initiative (GCRSAI)]
 M&E Officer: [John Senanu]
 Organization: [ Iwatch Affica]
 Project Duration: [2022] - [2024]
