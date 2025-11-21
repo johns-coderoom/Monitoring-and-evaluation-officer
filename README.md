@@ -4,9 +4,10 @@ M&E Officer: [John Senanu]
 Organization: [ Iwatch Affica]
 Project Duration: [2022] - [2024]
 
-📖 # Project Overview
+# 📖 Project Overview
 
 This repository serves as the central hub for all Monitoring, Evaluation, and Learning (MEL) activities for the Iwatch Africa. 
 
-# Primary Objectives:Our purpose is to promote and build sustainable environment together
+# Primary Objectives:
+Our purpose is to promote and build sustainable environment together
 
