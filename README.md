@@ -8,5 +8,9 @@ Project Duration: [2022] - [2024]
 
 This repository serves as the central hub for all Monitoring, Evaluation, and Learning (MEL) activities for the Iwatch Africa. 
 
-Primary Objectives:
+# Primary Objectives:Our purpose is to promote
+
+and build sustainable 
+
+environment together
 
